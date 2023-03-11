@@ -527,3 +527,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 * [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 * [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
+* [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the python interpreter.
